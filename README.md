@@ -19,4 +19,4 @@ Plasma Themes
 
 Fixed widget: tasks.svg
 
-Fixed icon: system.svg
+Fixed icon: system.svg, compass.svg
