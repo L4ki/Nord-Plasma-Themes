@@ -20,3 +20,5 @@ Plasma Themes
 Fixed widget: tasks.svg
 
 Fixed icon: system.svg, compass.svg
+
+Enable "Adaptive Transparency" for Plasma 5.22 
