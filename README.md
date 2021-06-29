@@ -40,3 +40,26 @@ Plasma Themes
 -------------
 
 Fixed icons: akregator.svg, drive.svg
+
+Changelog: 29.06.2021.
+----------------------
+
+GTK Theme
+----------
+
+Fixed icons: treeview-separator-ltr, treeview-separator-rtl
+
+Icons
+-----
+
+Added new icons: actions (22)
+
+Plasma Themes ("Nord-Plasma" and "Nord-Solid-Plasma"
+-------------
+
+Fixed icon: disk.svg
+
+Fixed widget: clock.svg
+
+Added new Plasma Themes: "Nord-Round-Plasma" and "Nord-Round-Solid-Plasma"
+--------------------------------------------------------------------------
