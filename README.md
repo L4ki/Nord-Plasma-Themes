@@ -63,3 +63,21 @@ Fixed widget: clock.svg
 
 Added new Plasma Themes: "Nord-Round-Plasma" and "Nord-Round-Solid-Plasma"
 --------------------------------------------------------------------------
+
+Changelog: 08.07.2021.
+----------------------
+
+GTK Theme
+---------
+
+Fixed icons: checkbox-checked-active.png, checkbox-checked-hover.png,  checkbox-checked-insensitive, checkbox-checked
+
+Icons
+-----
+
+Added new icons: actions (22)
+
+Plasma Themes
+--------------
+
+Added icons: utilities.svg, juk.svg
