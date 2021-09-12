@@ -81,3 +81,11 @@ Plasma Themes
 --------------
 
 Added icons: utilities.svg, juk.svg
+
+Changelog: 12.09.2021.
+----------------------
+
+Icons Themes
+-------------
+
+Added new icons: status (16, 22, 24, 32)
