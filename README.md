@@ -97,3 +97,11 @@ Icons Themes
 -------------
 
 Fixed icons: system-file-manager.svg
+
+Changelog: 28.09.2021.
+----------------------
+
+Icons Themes
+-------------
+
+Added new icons: status (22, 24)
