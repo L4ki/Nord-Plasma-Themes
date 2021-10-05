@@ -105,3 +105,12 @@ Icons Themes
 -------------
 
 Added new icons: status (22, 24)
+
+
+Changelog: 05.10.2021.
+----------------------
+
+Icons Themes
+-------------
+
+Added new icons:mimetypes
