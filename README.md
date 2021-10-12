@@ -114,3 +114,12 @@ Icons Themes
 -------------
 
 Added new icons:mimetypes
+
+Changelog: 12.10.2021.
+----------------------
+
+Icons Themes
+-------------
+
+Added new icons:mimetypes
+
