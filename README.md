@@ -123,3 +123,11 @@ Icons Themes
 
 Added new icons:mimetypes
 
+Changelog: 19.10.2021.
+----------------------
+
+Icons Themes
+-------------
+
+Added new icons:mimetypes
+
