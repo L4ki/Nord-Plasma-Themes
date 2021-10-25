@@ -131,3 +131,11 @@ Icons Themes
 
 Added new icons:mimetypes
 
+Changelog: 25.10.2021.
+----------------------
+
+Icons Themes
+-------------
+
+Added new icons:status (22, 24, symbolic)
+
