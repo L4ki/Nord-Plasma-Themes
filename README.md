@@ -139,3 +139,12 @@ Icons Themes
 
 Added new icons: status (22, 24, symbolic)
 
+
+Changelog: 02.11.2021.
+----------------------
+
+Icons Themes
+-------------
+
+Fixed icon: dialog-error-symbolic (status symbolic)
+
