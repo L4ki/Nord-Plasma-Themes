@@ -148,3 +148,10 @@ Icons Themes
 
 Fixed icon: dialog-error-symbolic (status symbolic)
 
+Changelog: 09.11.2021.
+----------------------
+
+Icons Themes
+-------------
+
+Added icons: apps
