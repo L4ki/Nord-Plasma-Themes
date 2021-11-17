@@ -155,3 +155,11 @@ Icons Themes
 -------------
 
 Added icons: apps
+
+Changelog: 17.11.2021.
+----------------------
+
+Icons Themes
+-------------
+
+Added new icons: actions (16)
