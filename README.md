@@ -179,3 +179,11 @@ Icons Themes
 -------------
 
 Added new icons: actions (24)
+
+Changelog: 09.12.2021.
+----------------------
+
+Icons Themes
+-------------
+
+Added new icons: actions (16)
