@@ -187,3 +187,12 @@ Icons Themes
 -------------
 
 Added new icons: actions (16)
+
+
+Changelog: 16.12.2021.
+----------------------
+
+Icons Themes
+-------------
+
+Added new icons: preferences
