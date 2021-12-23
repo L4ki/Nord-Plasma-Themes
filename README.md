@@ -196,3 +196,11 @@ Icons Themes
 -------------
 
 Added new icons: preferences
+
+Changelog: 23.12.2021.
+----------------------
+
+Icons Themes
+-------------
+
+Added new icons: actions (22)
