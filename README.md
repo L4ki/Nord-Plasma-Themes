@@ -204,3 +204,12 @@ Icons Themes
 -------------
 
 Added new icons: actions (22)
+
+
+Changelog: 30.12.2021.
+----------------------
+
+Icons Themes
+-------------
+
+Added new icons: actions (24)
