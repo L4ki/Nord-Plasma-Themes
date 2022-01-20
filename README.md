@@ -230,3 +230,11 @@ Icons Themes
 
 Added new icons: actions (48, symbolic)
 
+
+Changelog: 20.01.2022.
+----------------------
+
+Icons Themes
+-------------
+
+Added new icons: status (symbolic) and actions (22)
