@@ -262,3 +262,11 @@ Icons Themes
 -------------
 
 Added new icons: status (24)
+
+Changelog: 17.02.2022.
+----------------------
+
+Icons Themes
+-------------
+
+Added new icons: devices (16)
