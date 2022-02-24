@@ -270,3 +270,11 @@ Icons Themes
 -------------
 
 Added new icons: devices (16)
+
+Changelog: 24.02.2022.
+----------------------
+
+Icons Themes
+-------------
+
+Added new icons: devices (22)
