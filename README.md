@@ -287,3 +287,11 @@ Icons Themes
 -------------
 
 Added new icons: devices (24)
+
+Changelog: 10.03.2022.
+----------------------
+
+Icons Themes
+-------------
+
+Added new icons: actions (32)
