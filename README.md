@@ -296,7 +296,7 @@ Icons Themes
 
 Added new icons: actions (32)
 
-Changelog: 10.03.2022.
+Changelog: 17.03.2022.
 ----------------------
 
 Icons Themes
