@@ -303,3 +303,11 @@ Icons Themes
 -------------
 
 Added new icons: devices (64)
+
+Changelog: 24.03.2022.
+----------------------
+
+Icons Themes
+-------------
+
+Added new icons: mimetypes (16)
