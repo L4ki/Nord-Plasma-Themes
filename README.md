@@ -311,3 +311,11 @@ Icons Themes
 -------------
 
 Added new icons: mimetypes (16)
+
+Changelog: 01.04.2022.
+----------------------
+
+Icons Themes
+-------------
+
+Added new icons: mimetypes (22)
