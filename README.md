@@ -319,3 +319,13 @@ Icons Themes
 -------------
 
 Added new icons: mimetypes (22)
+
+Changelog: 08.04.2022.
+----------------------
+
+Icons Themes
+-------------
+
+Added new icons: mimetypes (32)
+
+
