@@ -344,4 +344,12 @@ Icons Themes
 
 Added new icons: actions (16)
 
+Changelog: 30.04.2022.
+----------------------
+
+Icons Themes
+-------------
+
+Added new icons: actions (22)
+
 
