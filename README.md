@@ -408,4 +408,12 @@ Icons Themes
 
 Update icons: actions 24
 
+Changelog: 02.07.2022.
+----------------------
+
+Icons Themes
+-------------
+
+Update icons: actions 16
+
 
