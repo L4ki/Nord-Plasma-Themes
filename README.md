@@ -441,3 +441,12 @@ Icons Themes
 Added new icons: actions 16
 
 
+Changelog: 19.08.2022.
+----------------------
+
+Icons Themes
+-------------
+
+Added new icons: mimetypes
+
+
