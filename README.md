@@ -449,4 +449,12 @@ Icons Themes
 
 Added new icons: mimetypes
 
+Changelog: 26.08.2022.
+----------------------
+
+Icons Themes
+-------------
+
+Added new icons: actions 22
+
 
