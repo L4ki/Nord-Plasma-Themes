@@ -482,3 +482,12 @@ Icons Themes
 Update icons: places
 
 
+Changelog: 23.09.2022.
+----------------------
+
+Icons Themes
+-------------
+
+Update icons: actions 22
+
+
