@@ -490,4 +490,8 @@ Icons Themes
 
 Update icons: actions 22
 
+GTK-Theme
+----------
+
+Update: assets, gtk.css
 
