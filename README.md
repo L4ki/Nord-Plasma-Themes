@@ -503,3 +503,12 @@ Icons Themes
 -------------
 Added new  icons: apps 48
 
+
+Changelog: 07.10.2022.
+----------------------
+
+Icons Themes
+-------------
+
+Added new  icons: apps
+
