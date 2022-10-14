@@ -512,3 +512,11 @@ Icons Themes
 
 Added new  icons: apps
 
+Changelog: 14.10.2022.
+----------------------
+
+Icons Themes
+-------------
+
+Added new icons: actions 24
+
