@@ -537,3 +537,9 @@ Icons Themes
 
 Added new icons: apps
 
+GTK-Theme
+--------
+
+Update assets icons
+
+
