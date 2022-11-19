@@ -543,3 +543,12 @@ GTK-Theme
 Update assets icons
 
 
+Changelog: 19.11.2022.
+----------------------
+
+Icons Themes
+-------------
+
+Added new icons: apps 32, 48
+
+
