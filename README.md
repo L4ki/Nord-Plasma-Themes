@@ -576,4 +576,12 @@ Icons Themes
 
 Added new icons: apps 32, 48
 
+Changelog: 23.12.2022.
+----------------------
+
+Icons Themes
+-------------
+
+Added new icons: apps 32
+
 
